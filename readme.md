@@ -3,3 +3,5 @@
 ## os Dados estão em:
 
 [CIS IEEE UNB - Renting Houce Prices Prediction](https://www.kaggle.com/competitions/cis-ieee-unb-renting-houce-prices/data)
+
+[CIS IEEE UNB - CHURN](https://www.kaggle.com/competitions/cis-ieee-unb-churn/data)
