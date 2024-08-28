@@ -1,6 +1,5 @@
-# dados não estão no repositório estão em Data por questão de espaço
 
-## os Dados estão em:
+# os Dados estão em:
 
 [CIS IEEE UNB - Renting Houce Prices Prediction](https://www.kaggle.com/competitions/cis-ieee-unb-renting-houce-prices/data)
 
