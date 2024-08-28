@@ -1,4 +1,4 @@
-# dados não estão no estão em Data por questão de espaço
+# dados não estão no repositório estão em Data por questão de espaço
 
 ## os Dados estão em:
 
